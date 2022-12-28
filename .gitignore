@@ -3,12 +3,5 @@
 ./credentials.json
 ./token.json
 /.idea
-/.idea/.gitignore
 /credentials.json
-/exit
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/inspectionProfiles/profiles_settings.xml
-/.idea/inspectionProfiles/Project_Default.xml
-/.idea/pythonTextGen.iml
-/.idea/vcs.xml
+
