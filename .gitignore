@@ -1,7 +1,6 @@
 /venv11
 /venv
-./credentials.json
-./token.json
+/token.json
 /.idea
 /credentials.json
 
